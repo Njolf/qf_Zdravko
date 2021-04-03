@@ -2,10 +2,6 @@
 qf_Zdravko  Application
 =========================
 
-Purpose
--------
-
-
 Sensor connections
 ------------------
 
